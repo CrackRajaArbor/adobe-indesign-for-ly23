@@ -1,4 +1,4 @@
-# 
+# vip Automation for Adobe InDesign for macOS - export presets and export to SVG offers the most advanced Adobe InDesign for macOS automation, with export presets and export to SVG.
 
 
 
